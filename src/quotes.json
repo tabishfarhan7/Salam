@@ -1,177 +1,182 @@
 [
   {
-    "author": "Eckhart Tolle",
-    "quote": "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
+    "author": "Imam Ali ibn Abi Talib",
+    "quote": "Do not care about what people say about you, as long as your conscience is at peace, you are fine.",
     "tags": [
-      "neutral",
-      "past",
-      "power",
-      "present"
+      "wisdom",
+      "peace",
+      "conscience"
     ]
   },
   {
-    "author": "Dalai Lama",
-    "quote": "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+    "author": "Imam Al-Shafi’i",
+    "quote": "Whoever seeks this world must pursue knowledge, and whoever seeks the Hereafter must pursue knowledge, and whoever seeks both must also pursue knowledge.",
     "tags": [
-      "neutral",
-      "love",
+      "knowledge",
+      "world",
+      "hereafter"
+    ]
+  },
+  {
+    "author": "Prophet Muhammad ﷺ",
+    "quote": "Your smile in the face of your brother is an act of charity.",
+    "tags": [
+      "smile",
+      "charity",
+      "morals"
+    ]
+  },
+  {
+    "author": "Al-Hasan Al-Basri",
+    "quote": "I have never seen anything more certain than death, yet people act as if it is uncertain.",
+    "tags": [
+      "death",
+      "certainty",
+      "detachment"
+    ]
+  },
+  {
+    "author": "Jalal ad-Din Rumi",
+    "quote": "Be like water, gentle when it flows, yet powerful when it rages.",
+    "tags": [
+      "strength",
+      "flexibility",
+      "life"
+    ]
+  },
+  {
+    "author": "Umar ibn Al-Khattab",
+    "quote": "Judge yourselves before you are judged, and weigh your deeds before they are weighed.",
+    "tags": [
+      "self-reflection",
+      "accountability",
+      "justice"
+    ]
+  },
+  {
+    "author": "Ibn Qayyim Al-Jawziyya",
+    "quote": "Patience is to restrain the soul from being impatient, the tongue from complaining, and the body from acting upon anger.",
+    "tags": [
+      "patience",
+      "self-control",
+      "wisdom"
+    ]
+  },
+  {
+    "author": "Prophet Muhammad ﷺ",
+    "quote": "The best among you are those who have the best manners and character.",
+    "tags": [
+      "manners",
+      "character",
+      "virtue"
+    ]
+  },
+  {
+    "author": "Imam Malik",
+    "quote": "Knowledge does not consist in narrating much. Knowledge is but a light which Allah places in the heart.",
+    "tags": [
+      "knowledge",
+      "wisdom",
+      "faith"
+    ]
+  },
+  {
+    "author": "Ibn Taymiyyah",
+    "quote": "The real prisoner is the one whose heart is captive from remembering Allah.",
+    "tags": [
+      "faith",
+      "heart",
+      "remembrance"
+    ]
+  },
+  {
+    "author": "Prophet Muhammad ﷺ",
+    "quote": "The strong is not the one who overcomes others by his strength, but the strong is the one who controls himself when angry.",
+    "tags": [
+      "self-control",
+      "strength",
+      "anger"
+    ]
+  },
+  {
+    "author": "Ali ibn Abi Talib",
+    "quote": "The tongue is like a lion; if you let it loose, it will wound someone.",
+    "tags": [
+      "speech",
+      "self-control",
+      "wisdom"
+    ]
+  },
+  {
+    "author": "Umar ibn Al-Khattab",
+    "quote": "Sometimes the people with the worst past create the best future.",
+    "tags": [
+      "repentance",
+      "change",
+      "future"
+    ]
+  },
+  {
+    "author": "Ibn Ata’illah Al-Iskandari",
+    "quote": "Do not despair when in distress, for it might be the door through which you enter into true happiness.",
+    "tags": [
+      "hope",
+      "faith",
+      "happiness"
+    ]
+  },
+  {
+    "author": "Prophet Muhammad ﷺ",
+    "quote": "He who does not show mercy to others will not be shown mercy.",
+    "tags": [
+      "mercy",
       "compassion",
-      "inner"
+      "morals"
     ]
   },
   {
-    "author": "Yoda",
-    "quote": "Do, or do not. There is no try.",
+    "author": "Al-Ghazali",
+    "quote": "The happiness of the drop is to die in the river.",
     "tags": [
-      "neutral"
+      "selflessness",
+      "sacrifice",
+      "spirituality"
     ]
   },
   {
-    "author": "Confucius",
-    "quote": "I hear and I forget. I see and I remember. I do and I understand.",
+    "author": "Ali ibn Abi Talib",
+    "quote": "The cure for ignorance is to question.",
     "tags": [
-      "neutral"
+      "knowledge",
+      "learning",
+      "wisdom"
     ]
   },
   {
-    "author": "Johann Wolfgang von Goethe",
-    "quote": "Mountains cannot be surmounted except by winding paths.",
+    "author": "Prophet Muhammad ﷺ",
+    "quote": "Richness is not having many possessions, but true richness is being content in the soul.",
     "tags": [
-      "neutral",
-      "mountain",
-      "path"
+      "contentment",
+      "wealth",
+      "satisfaction"
     ]
   },
   {
-    "author": "Bob Newhart",
-    "quote": "All I can say about life is, Oh God, enjoy it!",
+    "author": "Ibn al-Jawzi",
+    "quote": "A person’s worth is based on what they seek.",
     "tags": [
-      "neutral",
+      "purpose",
+      "value",
       "life"
     ]
   },
   {
-    "author": "John Wooden",
-    "quote": "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
+    "author": "Umar ibn Al-Khattab",
+    "quote": "Be patient; patience is a pillar of faith.",
     "tags": [
-      "neutral",
-      "praise",
-      "criticism",
-      "weakness"
-    ]
-  },
-  {
-    "author": "M. Scott Peck",
-    "quote": "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
-    "tags": [
-      "neutral",
-      "time"
-    ]
-  },
-  {
-    "author": "Francis Bacon",
-    "quote": "A wise man will make more opportunities than he finds.",
-    "tags": [
-      "positive",
-      "wise",
-      "opportunity"
-    ]
-  },
-  {
-    "author": "Henry Longfellow",
-    "quote": "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
-    "tags": [
-      "neutral",
-      "safe",
-      "coat",
-      "mail"
-    ]
-  },
-  {
-    "author": "Wayne Dyer",
-    "quote": "We are Divine enough to ask and we are important enough to receive.",
-    "tags": [
-      "neutral",
-      "divine",
-      "important"
-    ]
-  },
-  {
-    "author": "Daisaku Ikeda",
-    "quote": "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
-    "tags": [
-      "positive",
-      "life",
-      "person",
-      "energy"
-    ]
-  },
-  {
-    "author": "Søren Kierkegaard",
-    "tags": "fictional, movie, do, try, star wars",
-    "quote": "Life can only be understood backwards; but it must be lived forwards."
-  },
-  {
-    "author": "Kahlil Gibran",
-    "quote": "Be like the flower, turn your face to the sun.",
-    "tags": [
-      "neutral",
-      "flower",
-      "face"
-    ]
-  },
-  {
-    "quote": "Insomnia sharpens your math skills because you spend all night calculating how much sleep you'll get if you 'fall asleep right now.'",
-    "author": "Unknown",
-    "tags": [
-      "neutral",
-      "math",
-      "skill",
-      "night"
-    ]
-  },
-  {
-    "quote": "Don’t worry if plan A fails. There are 25 more letters in the alphabet.",
-    "author": "Unknown",
-    "tags": [
-      "neutral",
-      "letter",
-      "alphabet"
-    ]
-  },
-  {
-    "author": "Chinese proverb",
-    "quote": "He who deliberates fully before taking a step will spend his entire life on one leg.",
-    "tags": [
-      "neutral",
-      "step",
-      "entire",
-      "life"
-    ]
-  },
-  {
-    "author": "Voltaire",
-    "quote": "No snowflake in an avalanche ever feels responsible.",
-    "tags": [
-      "neutral",
-      "snowflake",
-      "avalanche",
-      "responsible"
-    ]
-  },
-  {
-    "author": "Carl Sandburg",
-    "quote": "Nothing happens unless first we dream.",
-    "tags": [
-      "neutral"
-    ]
-  },
-  {
-    "author": "Mary Almanac",
-    "quote": "Who we are never changes. Who we think we are does.",
-    "tags": [
-      "neutral",
-      "change"
+      "patience",
+      "faith",
+      "strength"
     ]
   },
   {
