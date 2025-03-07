@@ -102,7 +102,7 @@ function shareContent() {
 
 // initialize app
 window.addEventListener('load', () => {
-  audio = new Audio('src/guts_theme.mp3');
+  audio = new Audio('src/salam.mp3');
   audio.muted=false;
   audio.autoplay=true;
   audio.loop = true;
