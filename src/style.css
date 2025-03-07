@@ -63,7 +63,7 @@ button {
   border: none;
   cursor: pointer;
   color: inherit;
-  transition: transform 0.2s;
+  transition: transform 0.3s ease;
 }
 
 button:hover {
@@ -107,7 +107,7 @@ button:hover {
 }
 .footer svg{
   float: left;
-  margin-right: .75em;
+  margin-right: .76em;
 }
 
 /* Animations */
